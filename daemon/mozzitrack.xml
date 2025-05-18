@@ -1,0 +1,31 @@
+<service>
+	<id>mozzitrack.exe</id>
+	<name>MozziTrack</name>
+	<description>MozziTrack</description>
+	<executable>C:\nvm4w\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>D:\Final Project\Mozzi Tracker_live\BE\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Final Project\Mozzi Tracker_live\BE\app.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>MozziTrack wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-6IMPDAO</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>D:\Final Project\Mozzi Tracker_live\BE</workingdirectory>
+</service>

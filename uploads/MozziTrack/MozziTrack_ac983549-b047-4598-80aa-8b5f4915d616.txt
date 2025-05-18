@@ -1,0 +1,23 @@
+equirements :
+
+Minimum 2 years of hands-on experience with C# and Angular.
+Experience with JavaScript, TypeScript, React, NextJs.
+Proficiency in using .NET Framework, .NET Core, and ASP.NET for developing web applications, APIs, and other software solutions
+Experience with SQL databases (e.g., SQL Server, MySQL).
+Strong understanding of object-oriented programming principles and design patterns.
+Familiarity with cloud platforms (e.g.,GCP, Azure, AWS).
+Knowledge of version control systems, particularly Git.
+Good understanding of unit testing and agile development methodologies.
+Creative thinking and problem-solving skills.
+Ability to learn new technologies quickly and adapt to changing project requirements.
+
+
+Additional preferred skills : 
+
+Knowledge of operating systems, kernel concepts and networking.
+Knowledge in frameworks & libraries Vue.js, NestJs, Angular Material UI.
+Experience with Golang (Echo framework).
+Experience with containerization technologies (e.g., Docker, Kubernetes).
+
+
+JIT Resourcing & Consultancy Services

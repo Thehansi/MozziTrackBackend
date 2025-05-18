@@ -1,0 +1,1883 @@
+2022.06.14, 10:35:07.0357 UTC -> 
+Endpoint: GET /api/student?StudentID=31486
+Params: {"StudentID":"31486"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Conversion failed when converting the varchar value '{URL : ' to data type int.
+
+2022.07.02, 11:43:07.0838 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Port for MSSQLSERVER2019 not found in DESKTOP-BK0DBBA
+
+2022.07.02, 11:45:28.0482 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to connect to MSSQLSERVER2019:1433 - getaddrinfo ENOTFOUND MSSQLSERVER2019
+
+2022.09.29, 06:11:51.0648 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:54.0391 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:54.0799 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:54.0864 UTC -> 
+Endpoint: GET /api/country-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:54.0436 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:54.0742 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:57.0197 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:57.0211 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:57.0227 UTC -> 
+Endpoint: GET /api/industry-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:57.0253 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:57.0316 UTC -> 
+Endpoint: GET /api/layout-list-by-module2?SubModule=1001
+Params: {"SubModule":"1001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:59.0836 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:59.0845 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:11:59.0861 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 06:12:00.0054 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:07.0367 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:07.0519 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:07.0662 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:08.0249 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:08.0305 UTC -> 
+Endpoint: GET /api/country-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:08.0276 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:10.0969 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:11.0007 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:11.0023 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:11.0055 UTC -> 
+Endpoint: GET /api/layout-list-by-module2?SubModule=1001
+Params: {"SubModule":"1001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:10.0979 UTC -> 
+Endpoint: GET /api/industry-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:13.0576 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:13.0594 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:13.0604 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:21:14.0224 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:46.0859 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:46.0867 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:46.0879 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:47.0208 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:47.0218 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:47.0232 UTC -> 
+Endpoint: GET /api/country-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:49.0593 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:49.0600 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:49.0609 UTC -> 
+Endpoint: GET /api/industry-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:49.0617 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:49.0638 UTC -> 
+Endpoint: GET /api/layout-list-by-module2?SubModule=1001
+Params: {"SubModule":"1001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:52.0195 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:52.0210 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:52.0345 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:23:52.0203 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0557 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0568 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0600 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0760 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0774 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:11.0797 UTC -> 
+Endpoint: GET /api/country-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:14.0187 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:14.0198 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:14.0206 UTC -> 
+Endpoint: GET /api/industry-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:14.0215 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:14.0238 UTC -> 
+Endpoint: GET /api/layout-list-by-module2?SubModule=1001
+Params: {"SubModule":"1001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:16.0796 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:16.0804 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:16.0816 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.09.29, 11:24:17.0058 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:35:21.0790 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:16.0790 UTC -> 
+Endpoint: GET /api/people-lecturer-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:16.0799 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:19.0128 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:22.0095 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:22.0110 UTC -> 
+Endpoint: GET /api/student-lookup-all
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0754 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0765 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0946 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0963 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0983 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:33.0996 UTC -> 
+Endpoint: GET /api/country-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:36.0394 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:36.0401 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:36.0464 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:36.0511 UTC -> 
+Endpoint: GET /api/layout-list-by-module2?SubModule=1001
+Params: {"SubModule":"1001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:36.0522 UTC -> 
+Endpoint: GET /api/industry-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:38.0990 UTC -> 
+Endpoint: GET /api/course-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:38.0997 UTC -> 
+Endpoint: GET /api/subject-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:39.0010 UTC -> 
+Endpoint: GET /api/people-type-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:39.0027 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:39.0042 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:39.0205 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:41.0586 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:41.0592 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:41.0601 UTC -> 
+Endpoint: GET /api/qualification-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:41.0613 UTC -> 
+Endpoint: GET /api/qualification-level-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:41.0620 UTC -> 
+Endpoint: GET /api/series-lookup?ModuleID=13
+Params: {"ModuleID":"13"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:44.0186 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:53.0519 UTC -> 
+Endpoint: GET /api/nationality-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:36:57.0782 UTC -> 
+Endpoint: GET /api/religion-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:00.0936 UTC -> 
+Endpoint: GET /api/language-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:03.0814 UTC -> 
+Endpoint: GET /api/industry-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:07.0313 UTC -> 
+Endpoint: GET /api/ethnicity-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:07.0322 UTC -> 
+Endpoint: GET /api/qualification-list?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:09.0741 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:15.0483 UTC -> 
+Endpoint: GET /api/people-type-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:20.0964 UTC -> 
+Endpoint: GET /api/structure-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:24.0486 UTC -> 
+Endpoint: GET /api/structure-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:30.0929 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:30.0940 UTC -> 
+Endpoint: GET /api/course-type-list?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:33.0527 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:38.0748 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:38.0755 UTC -> 
+Endpoint: GET /api/course-all-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:44.0641 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:44.0650 UTC -> 
+Endpoint: GET /api/fee-list?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:44.0665 UTC -> 
+Endpoint: GET /api/fee-list-type
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:50.0216 UTC -> 
+Endpoint: GET /api/hall-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:50.0226 UTC -> 
+Endpoint: GET /api/school-lookup-by-user?UserID=66
+Params: {"UserID":"66"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:52.0685 UTC -> 
+Endpoint: GET /api/report-category-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:37:57.0520 UTC -> 
+Endpoint: GET /api/country-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:38:01.0419 UTC -> 
+Endpoint: GET /api/currency-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:38:01.0431 UTC -> 
+Endpoint: GET /api/salesperson-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:38:05.0701 UTC -> 
+Endpoint: GET /api/tax-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:38:13.0402 UTC -> 
+Endpoint: GET /api/people-lookup?SchoolID=1
+Params: {"SchoolID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:41:33.0721 UTC -> 
+Endpoint: GET /api/people-lookup?SchoolID=1
+Params: {"SchoolID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:51:42.0186 UTC -> 
+Endpoint: GET /api/people-lookup?SchoolID=1
+Params: {"SchoolID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.07, 03:56:13.0615 UTC -> 
+Endpoint: GET /api/people-lookup?SchoolID=1
+Params: {"SchoolID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to lookup instance on DESKTOP-BK0DBBA - getaddrinfo ENOTFOUND DESKTOP-BK0DBBA
+
+2022.10.22, 04:42:29.0405 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:43:27.0306 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:43:35.0527 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:43:43.0429 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:47:50.0196 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:52:57.0875 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 04:52:57.0905 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 04:53:50.0655 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:02:47.0172 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:04.0536 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:05.0904 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:06.0209 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:11:06.0373 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:08.0851 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:09.0152 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:11:09.0664 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:45.0654 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:11:55.0870 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:14:35.0913 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:17:46.0666 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:17:46.0961 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:18:27.0606 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:18:27.0623 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:18:43.0789 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:18:43.0762 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:18:49.0867 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:18:51.0654 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:18:51.0973 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:18:53.0854 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:19:16.0321 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:19:42.0149 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:19:55.0953 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:19:57.0268 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:20:37.0362 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:20:52.0596 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:21:01.0027 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:21:03.0280 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:21:07.0009 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:21:09.0619 UTC -> 
+Endpoint: GET /api/school-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.22, 05:21:09.0918 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'LayoutSSP'.
+
+2022.10.22, 05:21:12.0028 UTC -> 
+Endpoint: GET /api/school-lookup-byLoginUser?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.10.26, 03:41:45.0187 UTC -> 
+Endpoint: GET /api/report-layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2022.10.26, 03:41:46.0765 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2022.11.17, 04:19:23.0986 UTC -> 
+Endpoint: GET /api/area-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.11.17, 04:19:24.0007 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=5001
+Params: {"DocumentID":"5001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.11.17, 04:22:24.0342 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=5001
+Params: {"DocumentID":"5001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.11.17, 04:22:24.0367 UTC -> 
+Endpoint: GET /api/area-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.11.17, 04:23:53.0583 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=5001
+Params: {"DocumentID":"5001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.11.17, 04:23:53.0663 UTC -> 
+Endpoint: GET /api/area-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Login failed for user 'dev'.
+
+2022.12.12, 10:06:08.0768 UTC -> 
+Endpoint: GET /api/number-series-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2022.12.13, 09:34:46.0183 UTC -> 
+Endpoint: POST /api/feedback/add-complain-inquiry
+Params: {"ComplainOInquiry":"{\"ComplainNo\":\"PCE/FDBK/001\",\"PriorityLevel\":1,\"ComplainType\":1,\"Status\":1,\"CustomerID\":2,\"RegistrationNumber\":\"PCE_CUS_1002\",\"CustomerName\":\"Customer 02\",\"CusIdentificationNo\":\"PCE-CUS-0002-2022\",\"CusEmail\":\"customer2@polychrome.com\",\"CusContactNo\":\"0776655666\",\"ComplainDate\":\"2022-12-13T18:30:00.000Z\",\"CategoryID\":1,\"ProductSize\":\"22\",\"BatchBarSerialCode\":\"1qweweqwecc\",\"DefectTypeID\":7,\"Quantity\":2,\"ComplainDetails\":\"not working\"}","ComplainOInquiryAttachments":"[{\"Name\":\"sample\",\"AttachmentID\":\"73a6e8f9-4c6a-1841-9c1d-3e0872abefeb\",\"AttachmentFilePath\":\"C:\\\\Users\\\\shamith\\\\Desktop\\\\Polychrome Budget\\\\perfect-pcp-backend\\\\uploads\\\\complain\\\\sample_02a53b21-d9a0-4975-90da-57f043856b50.sql\",\"AttachmentName\":\"sample_02a53b21-d9a0-4975-90da-57f043856b50.sql\"}]","ComplainOInquiryActionLog":"[{\"UserID\":5088,\"Description\":\"Issue Logged\",\"ActionDate\":\"2022-12-14\",\"Remarks\":\"init\",\"ActionID\":\"d8e6c26b-6dfe-a6e4-c610-811b5a63dac9\"}]"}
+IP: 127.0.0.1
+User: Common
+Error: RequestError: Procedure or function 'ComplainOInquiryMSP' expects parameter '@ComplainOInquiryAttachments', which was not supplied.
+
+2022.12.13, 09:34:54.0942 UTC -> 
+Endpoint: POST /api/feedback/add-complain-inquiry
+Params: {"ComplainOInquiry":"{\"ComplainNo\":\"PCE/FDBK/001\",\"PriorityLevel\":1,\"ComplainType\":1,\"Status\":1,\"CustomerID\":2,\"RegistrationNumber\":\"PCE_CUS_1002\",\"CustomerName\":\"Customer 02\",\"CusIdentificationNo\":\"PCE-CUS-0002-2022\",\"CusEmail\":\"customer2@polychrome.com\",\"CusContactNo\":\"0776655666\",\"ComplainDate\":\"2022-12-13T18:30:00.000Z\",\"CategoryID\":1,\"ProductSize\":\"22\",\"BatchBarSerialCode\":\"1qweweqwecc\",\"DefectTypeID\":7,\"Quantity\":2,\"ComplainDetails\":\"not working\"}","ComplainOInquiryAttachments":"[{\"Name\":\"sample\",\"AttachmentID\":\"73a6e8f9-4c6a-1841-9c1d-3e0872abefeb\",\"AttachmentFilePath\":\"C:\\\\Users\\\\shamith\\\\Desktop\\\\Polychrome Budget\\\\perfect-pcp-backend\\\\uploads\\\\complain\\\\sample_02a53b21-d9a0-4975-90da-57f043856b50.sql\",\"AttachmentName\":\"sample_02a53b21-d9a0-4975-90da-57f043856b50.sql\"}]","ComplainOInquiryActionLog":"[{\"UserID\":5088,\"Description\":\"Issue Logged\",\"ActionDate\":\"2022-12-14\",\"Remarks\":\"init\",\"ActionID\":\"d8e6c26b-6dfe-a6e4-c610-811b5a63dac9\"}]"}
+IP: 127.0.0.1
+User: Common
+Error: RequestError: Procedure or function 'ComplainOInquiryMSP' expects parameter '@ComplainOInquiryAttachments', which was not supplied.
+
+2022.12.13, 10:09:50.0770 UTC -> 
+Endpoint: GET /api/feedback/get-complain-inquiry?AutoID=1
+Params: {"AutoID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Procedure or function 'ComplainOInquirySSP' expects parameter '@UserID', which was not supplied.
+
+2022.12.13, 10:11:58.0156 UTC -> 
+Endpoint: GET /api/feedback/get-complain-inquiry?AutoID=1
+Params: {"AutoID":"1"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Procedure or function 'ComplainOInquirySSP' expects parameter '@UserID', which was not supplied.
+
+2022.12.13, 10:41:08.0716 UTC -> 
+Endpoint: POST /api/feedback/add-complain-inquiry
+Params: {"ComplainOInquiry":"{\"AutoID\":1,\"PriorityLevel\":1,\"ComplainType\":1,\"ComplainNo\":\"PCE/FDBK/001\",\"Status\":1,\"CustomerID\":1,\"RegistrationNumber\":\"PCE_CUS_1001\",\"CustomerName\":\"Sample Customer\",\"CusIdentificationNo\":\"PCE-CUS-0001-2022\",\"CusEmail\":\"sampleuser@polychrome.com\",\"CusContactNo\":\"0112211212\",\"ComplainDate\":\"2022-12-11T00:00:00\",\"CategoryID\":2,\"ProductSize\":\"11\",\"BatchBarSerialCode\":\"11111\",\"DefectTypeID\":7,\"Quantity\":\"2\",\"ComplainDetails\":\"not working\",\"CreatedDate\":\"2022-12-13T15:39:37.227\",\"ItemID\":1}","ComplainOInquiryAttachments":"[{\"AttachmentID\":1,\"CompInqID\":1,\"Name\":\"file 01\",\"AttachmentName\":\"undefined\",\"AttachmentFilePath\":\"undefined\",\"CreatedDate\":\"2022-12-13T15:39:37.227\"},{\"AttachmentID\":2,\"CompInqID\":1,\"Name\":\"file 02\",\"AttachmentName\":\"file02_0daa0cff-39a2-4a4f-a57d-ea9ff876e450.js\",\"AttachmentFilePath\":\"C:\\\\Users\\\\shamith\\\\Desktop\\\\Polychrome Budget\\\\perfect-pcp-backend\\\\uploads\\\\complain\\\\file02_0daa0cff-39a2-4a4f-a57d-ea9ff876e450.js\",\"CreatedDate\":\"2022-12-13T15:39:37.227\"}]","ComplainOInquiryActionLog":"[{\"AutoID\":1,\"CompInqID\":1,\"UserID\":5088,\"Description\":\"Logging the issue\",\"ActionDate\":\"2022-12-13T00:00:00\",\"CreatedDate\":\"2022-12-13T15:39:37.230\"}]"}
+IP: 127.0.0.1
+User: Common
+Error: RequestError: Invalid column name 'AutoID'.
+
+2022.12.13, 10:41:18.0451 UTC -> 
+Endpoint: POST /api/feedback/add-complain-inquiry
+Params: {"ComplainOInquiry":"{\"AutoID\":1,\"PriorityLevel\":1,\"ComplainType\":1,\"ComplainNo\":\"PCE/FDBK/001\",\"Status\":1,\"CustomerID\":1,\"RegistrationNumber\":\"PCE_CUS_1001\",\"CustomerName\":\"Sample Customer\",\"CusIdentificationNo\":\"PCE-CUS-0001-2022\",\"CusEmail\":\"sampleuser@polychrome.com\",\"CusContactNo\":\"0112211212\",\"ComplainDate\":\"2022-12-11T00:00:00\",\"CategoryID\":2,\"ProductSize\":\"11\",\"BatchBarSerialCode\":\"11111\",\"DefectTypeID\":7,\"Quantity\":\"2\",\"ComplainDetails\":\"not working\",\"CreatedDate\":\"2022-12-13T15:39:37.227\",\"ItemID\":1}","ComplainOInquiryAttachments":"[{\"AttachmentID\":1,\"CompInqID\":1,\"Name\":\"file 01\",\"AttachmentName\":\"undefined\",\"AttachmentFilePath\":\"undefined\",\"CreatedDate\":\"2022-12-13T15:39:37.227\"},{\"AttachmentID\":2,\"CompInqID\":1,\"Name\":\"file 02\",\"AttachmentName\":\"file02_0daa0cff-39a2-4a4f-a57d-ea9ff876e450.js\",\"AttachmentFilePath\":\"C:\\\\Users\\\\shamith\\\\Desktop\\\\Polychrome Budget\\\\perfect-pcp-backend\\\\uploads\\\\complain\\\\file02_0daa0cff-39a2-4a4f-a57d-ea9ff876e450.js\",\"CreatedDate\":\"2022-12-13T15:39:37.227\"}]","ComplainOInquiryActionLog":"[{\"AutoID\":1,\"CompInqID\":1,\"UserID\":5088,\"Description\":\"Logging the issue\",\"ActionDate\":\"2022-12-13T00:00:00\",\"CreatedDate\":\"2022-12-13T15:39:37.230\"}]"}
+IP: 127.0.0.1
+User: Common
+Error: RequestError: Invalid column name 'AutoID'.
+
+2022.12.14, 06:54:18.0399 UTC -> 
+Endpoint: POST /api/feedback/add-feedback
+Params: {"Feedback":"{\"FeedbackNo\":\"PCE/FDBK/001\",\"Status\":1,\"CustomerID\":1,\"RegistrationNumber\":\"PCE_CUS_1001\",\"CustomerName\":\"Sample Customer\",\"CusIdentificationNo\":\"PCE-CUS-0001-2022\",\"CusEmail\":\"sampleuser@polychrome.com\",\"CusContactNo\":\"0112211212\",\"ContactabilityOfSalesRepresentative\":1,\"SpeedToRespondToAnInquiryOrder\":2,\"SubmissionOfPriceQuotationInformationOnTime\":3,\"\\r ResponseToChangesOnOrderPlaced\":4,\"FeedbackGivenOnProcessOfTheOrdersPlaced\":5,\"ContactabilityOfSalesRepresentativeRemark\":\"adasd\",\"\\r SpeedToRespondToAnInquiryOrderRemark\":\"asdasd\",\"\\r SubmissionOfPriceQuotationInformationOnTimeRemark\":\"44444444444\"}","FeedbackAttachments":"[]","FeedbackActionLog":"[{\"UserID\":5088,\"Description\":\"dfdf\",\"ActionDate\":\"2022-12-13T18:30:00.000Z\",\"Remarks\":\"eee\",\"AutoID\":\"db6fbd73-3e04-024e-19ed-9a513eea2b7e\"}]"}
+IP: 127.0.0.1
+User: Common
+Error: RequestError: Could not find stored procedure 'FeedbackMSP55'.
+
+2022.12.14, 06:55:27.0614 UTC -> 
+Endpoint: GET /api/feedback/listview-feedback
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid column name 'ComplainType'.
+
+2022.12.14, 06:56:28.0250 UTC -> 
+Endpoint: GET /api/feedback/listview-feedback
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid column name 'ComplainType'.
+
+2022.12.14, 07:08:10.0529 UTC -> 
+Endpoint: GET /api/feedback/get-feedback?AutoID=3
+Params: {"AutoID":"3"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'FeedbackSSP'.
+
+2022.12.16, 06:50:06.0368 UTC -> 
+Endpoint: GET /api/number-series-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'School'.
+
+2023.02.13, 08:49:38.0791 UTC -> 
+Endpoint: GET /api/area-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to connect to MSSQL\DEVMSSQLSERVER in 15000ms
+
+2023.02.13, 08:49:38.0860 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=4001
+Params: {"DocumentID":"4001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to connect to MSSQL\DEVMSSQLSERVER in 15000ms
+
+2023.02.24, 10:23:08.0554 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2023.02.24, 10:23:10.0481 UTC -> 
+Endpoint: GET /api/report-layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2023.02.24, 10:23:31.0050 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2023.02.24, 10:33:18.0040 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2023.02.24, 10:36:53.0711 UTC -> 
+Endpoint: GET /api/report-layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2023.03.29, 04:07:01.0496 UTC -> 
+Endpoint: POST /api/customer-sync
+Params: {"ApplicationID":3066,"CardCode":"LastCus","CardName":"LastCus","MailAddress":"LastCus","AdditionalID":"LastCus","Address":"LastCus"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('LastCus') does not exist"}}
+
+2023.03.29, 04:10:57.0630 UTC -> 
+Endpoint: POST /api/customer-sync
+Params: {"ApplicationID":3066,"CardCode":"LastCus","CardName":"LastCus","MailAddress":"LastCus","AdditionalID":"LastCus","Address":"LastCus"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('LastCus') does not exist"}}
+
+2023.03.29, 04:14:39.0020 UTC -> 
+Endpoint: POST /api/customer-sync
+Params: {"ApplicationID":3066,"CardCode":"LastCus","CardName":"LastCus","MailAddress":"LastCus","AdditionalID":"LastCus","Address":"LastCus"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('LastCus') does not exist"}}
+
+2023.03.29, 11:00:32.0594 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-5002,"message":{"lang":"en-us","value":"Both \"Inactive\" and \"Active\" are set to \"No\"; set at least one of them to \"Yes\"  [OCRD.validFor][line: 0]"}}
+
+2023.03.29, 11:18:02.0544 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: {"CardCode":11111,"TerminationStatus":2}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-5002,"message":{"lang":"en-us","value":"Both \"Inactive\" and \"Active\" are set to \"No\"; set at least one of them to \"Yes\"  [OCRD.validFor][line: 0]"}}
+
+2023.03.30, 05:12:02.0965 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"CServiceData::SetPropertyValue failed; Value must be numeric in property 'CreditLimit' of 'BusinessPartner'"}}
+
+2023.03.30, 05:18:07.0351 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"CServiceData::SetPropertyValue failed; Value must be numeric in property 'CreditLimit' of 'BusinessPartner'"}}
+
+2023.03.30, 05:19:37.0842 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"CServiceData::SetPropertyValue failed; Value must be numeric in property 'CreditLimit' of 'BusinessPartner'"}}
+
+2023.03.30, 05:21:36.0898 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"CServiceData::SetPropertyValue failed; Value must be numeric in property 'CreditLimit' of 'BusinessPartner'"}}
+
+2023.03.30, 05:24:32.0061 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"BadFormat"}}
+
+2023.03.30, 05:27:33.0396 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"BadFormat"}}
+
+2023.03.30, 05:30:10.0111 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"10000"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"BadFormat"}}
+
+2023.03.30, 05:32:43.0663 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"10000"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":203,"message":{"lang":"en-us","value":"Double-quote is not allowed."}}
+
+2023.03.30, 05:37:03.0775 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"1000"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":203,"message":{"lang":"en-us","value":"Double-quote is not allowed."}}
+
+2023.03.30, 05:37:55.0199 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"1000"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"BadFormat"}}
+
+2023.03.30, 05:40:17.0799 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"1000"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-1,"message":{"lang":"en-us","value":"BadFormat"}}
+
+2023.03.30, 05:43:57.0371 UTC -> 
+Endpoint: POST /api/creditEvaluation-sync
+Params: {"CardCode":"131313","CreditLimit":"1500"}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-5002,"message":{"lang":"en-us","value":"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , '131313'"}}
+
+2023.03.30, 07:35:48.0054 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: {"CardCode":1,"TerminationStatus":2}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('1') does not exist"}}
+
+2023.03.30, 07:36:29.0029 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: {"CardCode":1,"TerminationStatus":2}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('1') does not exist"}}
+
+2023.04.19, 05:04:04.0425 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: {"CardCode":"512512","TerminationStatus":2}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('512512') does not exist"}}
+
+2023.04.19, 05:31:10.0487 UTC -> 
+Endpoint: POST /api/Termination-sync
+Params: {"CardCode":"512512","TerminationStatus":2}
+IP: 127.0.0.1
+User: Common
+Error: {"code":-2028,"message":{"lang":"en-us","value":"Entity with value('512512') does not exist"}}
+
+2023.05.15, 06:09:28.0612 UTC -> 
+Endpoint: POST /api/keyDealer-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Can not identify character '\"' at position 50"}}
+
+2023.05.15, 06:10:42.0035 UTC -> 
+Endpoint: POST /api/keyDealer-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.06.21, 08:57:53.0256 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2023.06.21, 08:57:54.0361 UTC -> 
+Endpoint: GET /api/report-layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2023.06.21, 08:58:14.0361 UTC -> 
+Endpoint: GET /api/report-layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2023.06.21, 08:58:16.0679 UTC -> 
+Endpoint: GET /api/layout-list
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'Layout'.
+
+2023.06.26, 10:10:43.0396 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: undefined
+
+2023.07.07, 05:40:54.0617 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:08:22.0896 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:11:37.0231 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:51:58.0369 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:55:08.0154 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:57:53.0475 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.07, 06:58:30.0343 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.08, 05:25:56.0110 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.08, 06:13:28.0023 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 05:11:14.0850 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 08:12:31.0814 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 08:15:36.0853 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 08:23:12.0727 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 08:58:35.0729 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.10, 10:44:25.0570 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 03:34:01.0825 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 03:47:54.0716 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 03:55:43.0421 UTC -> 
+Endpoint: GET /api/report-layout-list?UserID=2
+Params: {"UserID":"2"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Could not find stored procedure 'ReportLayoutSSP'.
+
+2023.07.11, 04:29:26.0273 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 04:30:35.0019 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 04:34:13.0965 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:22:33.0532 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:24:12.0053 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:29:28.0264 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:30:47.0329 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:31:37.0033 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 05:50:18.0947 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 06:24:24.0530 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.11, 06:38:47.0320 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-111,"message":{"lang":"en-us","value":"Unable to access SBO-Common database"}}
+
+2023.07.12, 11:08:32.0746 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.17, 08:15:34.0914 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.17, 10:31:35.0811 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.18, 08:17:54.0020 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.19, 04:05:26.0712 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.19, 04:10:10.0678 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.19, 04:10:37.0312 UTC -> 
+Endpoint: POST /api/applicationSalesPerson-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":-311,"message":{"lang":"en-us","value":"Fail to get the bound database instance from SLD."}}
+
+2023.07.24, 10:00:38.0096 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Can not identify character '[' at position 71"}}
+
+2023.07.24, 10:01:41.0291 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.07.24, 10:08:39.0834 UTC -> 
+Endpoint: POST /api/BankGuaranteeClaim-sync
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.07.25, 04:06:59.0677 UTC -> 
+Endpoint: POST /api/customer
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.07.25, 05:14:28.0725 UTC -> 
+Endpoint: POST /api/customer
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.07.25, 05:46:30.0154 UTC -> 
+Endpoint: POST /api/customer
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: {"code":201,"message":{"lang":"en-us","value":"Not supported query string"}}
+
+2023.07.26, 03:34:22.0635 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=5001
+Params: {"DocumentID":"5001"}
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to connect to MSSQL\DEVMSSQLSERVER in 15000ms
+
+2023.07.26, 03:34:22.0636 UTC -> 
+Endpoint: GET /api/area-lookup
+Params: None
+IP: 127.0.0.1
+User : Common
+Error: ConnectionError: Failed to connect to MSSQL\DEVMSSQLSERVER in 15000ms
+
+2024.04.04, 05:08:31.0367 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:10:13.0387 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:17:20.0809 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:46:54.0629 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:48:41.0317 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:49:38.0299 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:50:43.0431 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
+2024.04.04, 05:51:18.0702 UTC -> 
+Endpoint: GET /api/number-series-lookup-by-module?DocumentID=3000
+Params: {"DocumentID":"3000"}
+IP: 127.0.0.1
+User : Common
+Error: RequestError: Invalid object name 'NumberSeries'.
+
